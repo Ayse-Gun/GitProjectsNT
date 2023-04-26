@@ -13,6 +13,8 @@ public class atmProject {
         // version ayse1
         System.out.println("Canim sikkin");
         //version ayse2
+        System.out.println("Hey!");
+        //ayse3
 
 
     }
