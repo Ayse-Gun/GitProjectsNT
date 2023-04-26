@@ -7,6 +7,9 @@ public class atmProject {
         // Version2
         System.out.println("Learn java ");
         // version3
+        System.out.println("Hayat sevince guzel");
+        //version4
+
 
     }
 
