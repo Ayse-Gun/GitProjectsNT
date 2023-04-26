@@ -15,6 +15,8 @@ public class atmProject {
         //version ayse2
         System.out.println("Hey!");
         //ayse3
+        System.out.println("Hi!");
+        //ayse4
 
 
     }
