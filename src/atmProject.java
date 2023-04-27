@@ -19,6 +19,7 @@ public class atmProject {
         //ayse4
 //nnnn
         //Kolay
+        //remote da degisiklil yaptim
 
     }
 
