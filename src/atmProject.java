@@ -18,6 +18,7 @@ public class atmProject {
         System.out.println("Hi!");
         //ayse4
 //nnnn
+        //Kolay
 
     }
 
